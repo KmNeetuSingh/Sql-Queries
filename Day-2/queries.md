@@ -33,7 +33,8 @@ FROM Student_records;
  -->
 SELECT Student_Id,Total_Classes, 
        (Total_Classes * 2) AS Study_Students
-FROM Student_records;SELECT Student_Id, MAth_Score, Scinece_Score, 
+FROM Student_records;
+SELECT Student_Id, MAth_Score, Scinece_Score, 
        ((MAth_Score+Scinece_Score)/2) AS Average_Students
 FROM Student_records; 
 
