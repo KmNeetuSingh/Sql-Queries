@@ -7,7 +7,8 @@ Scinece_Score INT,
 Total_Classes INT,
 Days_absent INT
 );
--- Calculate the number of classes each student actually attended.
+<!-- -- Calculate the number of classes each student actually attended. -->
+
 Insert into Student_records(Student_Id,
 MAth_Score
 ,Scinece_Score
