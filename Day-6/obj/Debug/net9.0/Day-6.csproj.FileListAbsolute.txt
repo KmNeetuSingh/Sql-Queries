@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Sql-Queries\Day-6\bin\Debug\net9.0\Day-6.exe
+C:\Users\hp\Desktop\Sql-Queries\Day-6\bin\Debug\net9.0\Day-6.deps.json
+C:\Users\hp\Desktop\Sql-Queries\Day-6\bin\Debug\net9.0\Day-6.runtimeconfig.json
+C:\Users\hp\Desktop\Sql-Queries\Day-6\bin\Debug\net9.0\Day-6.dll
+C:\Users\hp\Desktop\Sql-Queries\Day-6\bin\Debug\net9.0\Day-6.pdb
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.AssemblyInfo.cs
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.sourcelink.json
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.dll
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\refint\Day-6.dll
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.pdb
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\Day-6.genruntimeconfig.cache
+C:\Users\hp\Desktop\Sql-Queries\Day-6\obj\Debug\net9.0\ref\Day-6.dll
