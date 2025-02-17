@@ -1,6 +1,6 @@
 1. In a relational database, relational means that data is stored in tables connected by common fields. For example, a company database may have a Customers table that contains customer details and an Orders table that contains order details. These two tables are related through a CustomerID field so you can tell which customer made which order.
 
-2. Keys uniquely identify records and establish relationships between tables. A **Primary Key** uniquely identifies each record in a table. A **Foreign Key** refers to the Primary Key of another table to establish a relationship. For instance, in an e-commerce database, the "Products" table has "ProductID" as a Primary Key; the "OrderDetails" table will have "ProductID" as a Foreign Key in order to connect orders with respective products.
+2. Keys uniquely identify records and establish relationships between tables. A **Primary Key** uniquely dentifies each record in a table. A **Foreign Key** refers to the Primary Key of another table to establish a relationship. For instance, in an e-commerce database, the "Products" table has "ProductID" as a Primary Key; the "OrderDetiails" table will have "ProductID" as a Foreign Key in order to connect orders with respective products.
 
 3. ACID properties ensure database reliability: 
   - Atomicity ensures that either a transaction completes entirely or does not happen at all. When money is subtracted from one account but added to another, the transaction is rolled back.
