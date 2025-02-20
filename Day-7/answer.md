@@ -229,10 +229,13 @@
       ```
 
 18. **How does a `foreach` loop work internally in C#?**
-    - A `foreach` loop uses an enumerator to iterate over a collection. It calls the `GetEnumerator` method of the collection and uses the `MoveNext` and `Current` properties of the enumerator.
+    - A `foreach` loop uses an enumerator to iterate over a collection. 
+    It calls the `GetEnumerator` method of the collection and
+     uses the `MoveNext` and `Current` properties of the enumerator.
 
 19. **Can a `foreach` loop be replaced with a `for` loop? If yes, in what cases?**
-    - Yes, a `foreach` loop can be replaced with a `for` loop when working with indexable collections like arrays or lists.
+    - Yes, a `foreach` loop can be replaced with a `for` loop when working with indexable 
+    collections like arrays or lists.
     - Example:
       ```csharp
       int[] numbers = { 1, 2, 3, 4, 5 };
@@ -255,7 +258,8 @@
     - Use `break` and `continue` judiciously.
 
 22. **How does the `Parallel.ForEach` loop differ from a normal `foreach` loop? Provide an example.**
-    - `Parallel.ForEach` executes iterations in parallel, utilizing multiple CPU cores, while `foreach` executes iterations sequentially.
+    - `Parallel.ForEach` executes iterations in parallel, utilizing multiple CPU cores,
+     while `foreach` executes iterations sequentially.
     - Example:
       ```csharp
       List<int> numbers = Enumerable.Range(1, 100).ToList();
@@ -303,8 +307,10 @@
     ```
 
 24. **Compare and explain the output.**
-    - The `foreach` loop processes tasks sequentially, while `Parallel.ForEach` processes tasks concurrently, leading to faster execution for CPU-bound tasks.
+    - The `foreach` loop processes tasks sequentially, while `Parallel.ForEach` processes tasks
+     concurrently, leading to faster execution for CPU-bound tasks.
 
 25. **How does parallel processing improve performance in this scenario?**
-    - Parallel processing divides the workload across multiple CPU cores, reducing the total execution time for large datasets or CPU-intensive tasks.
+    - Parallel processing divides the workload across multiple CPU cores,
+     reducing the total execution time for large datasets or CPU-intensive tasks.
 
