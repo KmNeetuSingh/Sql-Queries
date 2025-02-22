@@ -295,7 +295,7 @@
             Parallel.ForEach(tasks, task =>
             {
                 ProcessTask(task);
-            });
+            })
         }
 
         static void ProcessTask(int task)
